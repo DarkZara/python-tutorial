@@ -8,3 +8,4 @@ https://youtu.be/5ImPcj-b0js
 
 ### tutorial3
 آموزش پایتون رایگان ، قسمت سوم  کاربا ساختار ها و رشته ها ،لیست ، تاپل و دیکشنری در پایتون
+https://youtu.be/THjLagX30gs
