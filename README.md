@@ -14,3 +14,4 @@ https://youtu.be/THjLagX30gs
 
 ### tutorial4
 آموزش کامل حلقه ها و دستور های شرطی در پایتون
+https://youtu.be/xB5hHvH7308
