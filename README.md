@@ -15,3 +15,9 @@ https://youtu.be/THjLagX30gs
 ### tutorial4
 آموزش کامل حلقه ها و دستور های شرطی در پایتون
 https://youtu.be/xB5hHvH7308
+
+---
+
+### tutorial5
+آموزش توابع در پایتون
+[https://youtu.be/xB5hHvH7308](https://youtu.be/7ZQN-HGEfuw)
