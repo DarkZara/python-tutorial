@@ -21,3 +21,9 @@ https://youtu.be/xB5hHvH7308
 ### tutorial5
 آموزش توابع در پایتون
 [https://youtu.be/xB5hHvH7308](https://youtu.be/7ZQN-HGEfuw)
+
+---
+
+### tutorial6
+آموزش کلاس ها و شی گرایی در پایتون
+https://youtu.be/4yOJaDrU1l0
