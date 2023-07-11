@@ -36,7 +36,7 @@ https://youtu.be/4yOJaDrU1l0
 
 ---
 
-### tutorial7
+### tutorial8
 آموزش کنترل خطا در پایتون
 
 
