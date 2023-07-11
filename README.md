@@ -27,3 +27,17 @@ https://youtu.be/xB5hHvH7308
 ### tutorial6
 آموزش کلاس ها و شی گرایی در پایتون
 https://youtu.be/4yOJaDrU1l0
+
+---
+
+### tutorial7
+آموزش وراثت در پایتون
+
+
+---
+
+### tutorial7
+آموزش کنترل خطا در پایتون
+
+
+
