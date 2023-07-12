@@ -19,8 +19,8 @@ https://youtu.be/xB5hHvH7308
 ---
 
 ### tutorial5
-آموزش توابع در پایتون
-[https://youtu.be/xB5hHvH7308](https://youtu.be/7ZQN-HGEfuw)
+آموزش توابع در پایتون[
+https://youtu.be/7ZQN-HGEfuw
 
 ---
 
@@ -32,8 +32,8 @@ https://youtu.be/4yOJaDrU1l0
 
 ### tutorial7
 آموزش وراثت در پایتون
-
 https://youtu.be/Zh51ZaZPhYA
+
 ---
 
 ### tutorial8
