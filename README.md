@@ -38,6 +38,13 @@ https://youtu.be/Zh51ZaZPhYA
 
 ### tutorial8
 آموزش کنترل خطا در پایتون
-
 https://youtu.be/5iQzOeUWJV4
+
+---
+
+### tutorial9
+آموزش کار با فایل در پایتون
+
+
+
 
