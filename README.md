@@ -33,11 +33,11 @@ https://youtu.be/4yOJaDrU1l0
 ### tutorial7
 آموزش وراثت در پایتون
 
-
+https://youtu.be/Zh51ZaZPhYA
 ---
 
 ### tutorial8
 آموزش کنترل خطا در پایتون
 
-
+https://youtu.be/5iQzOeUWJV4
 
