@@ -44,13 +44,13 @@ https://youtu.be/5iQzOeUWJV4
 
 ### tutorial9
 آموزش کار با فایل در پایتون
-
+https://youtu.be/_y14jBRpEdU
 
 ---
 
 ### tutorial10
 آموزش کار با اینترنت و API در پایتون
-
+https://youtu.be/sV-6X1De5iA
 
 
 
